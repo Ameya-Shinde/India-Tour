@@ -1,0 +1,368 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+h1{
+    background-color:azure;
+}
+
+.bgimage1 {
+ width: 100%;
+ height: 100vh;
+
+ background-image: url('refImages/Andhra.jpg');
+ background-repeat: repeat-y;
+ background-size: 100% 100%;
+ background-attachment: fixed;
+}
+
+.bgimage2 {
+    width: 100%;
+    height: 100vh;
+   
+    background-image: url('refImages/Arunachal.jpg');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+   }
+
+   .bgimage3 {
+    width: 100%;
+    height: 100vh;
+   
+    background-image: url('refImages/Assam.jpg');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+   }
+
+   .bgimage4 {
+    width: 100%;
+    height: 100vh;
+   
+    background-image: url('refImages/Bihar.jpg');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+   } 
+
+   .bgimage5 {
+    width: 100%;
+    height: 100vh;
+   
+    background-image: url('refImages/Chhattisgarh.jpg');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+   }
+
+   .bgimage6 {
+    width: 100%;
+    height: 100vh;
+   
+    background-image: url('refImages/Goa.jpg');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+   }
+
+   .bgimage7 {
+    width: 100%;
+    height: 100vh;
+   
+    background-image: url('refImages/Gujrat.jpg');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+   }
+
+   .bgimage8 {
+    width: 100%;
+    height: 100vh;
+   
+    background-image: url('refImages/Haryana.jpg');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+   }
+
+   .bgimage9 {
+    width: 100%;
+    height: 100vh;
+   
+    background-image: url('refImages/Himachal-Pradesh.png');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+   }
+
+   .bgimage10 {
+    width: 100%;
+    height: 100vh;
+   
+    background-image: url('refImages/Jharkhand.webp');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+   }
+
+   .bgimage11 {
+    width: 100%;
+    height: 100vh;
+   
+    background-image: url('refImages/Karnataka.jpg');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+   }
+
+   .bgimage12 {
+    width: 100%;
+    height: 100vh;
+   
+    background-image: url('refImages/kerala.jpg');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+   }
+
+   .bgimage13 {
+    width: 100%;
+    height: 100vh;
+   
+    background-image: url('refImages/Madhya-Pradesh.jpg');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+   }
+
+   .bgimage14 {
+    width: 100%;
+    height: 100vh;
+   
+    background-image: url('refImages/Maharashtra.jpg');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+   }
+
+   .bgimage15 {
+    width: 100%;
+    height: 100vh;
+   
+    background-image: url('refImages/Manipur.jpg');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+   }
+
+   .bgimage16 {
+    width: 100%;
+    height: 100vh;
+   
+    background-image: url('refImages/Meghalaya.jpg');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+   }
+
+   .bgimage17 {
+    width: 100%;
+    height: 100vh;
+   
+    background-image: url('refImages/Mizoram.jpg');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+   }
+
+   .bgimage18 {
+    width: 100%;
+    height: 100vh;
+   
+    background-image: url('refImages/Nagaland.png');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+   }
+
+   .bgimage19 {
+    width: 100%;
+    height: 100vh;
+   
+    background-image: url('refImages/Odisha.jpg');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+   }
+
+   .bgimage20 {
+    width: 100%;
+    height: 100vh;
+   
+    background-image: url('refImages/Punjab.jpg');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+   }
+
+   .bgimage21 {
+    width: 100%;
+    height: 100vh;
+   
+    background-image: url('refImages/Rajasthan.jpg');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+   }
+
+   .bgimage22 {
+    width: 100%;
+    height: 100vh;
+   
+    background-image: url('refImages/Sikkim.jpg');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+   }
+
+   .bgimage23 {
+    width: 100%;
+    height: 100vh;
+   
+    background-image: url('refImages/Tamil-Nadu.webp');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+   }
+
+   .bgimage24 {
+    width: 100%;
+    height: 100vh;
+   
+    background-image: url('refImages/Telangana.webp');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+   }
+
+   .bgimage25 {
+    width: 100%;
+    height: 100vh;
+   
+    background-image: url('refImages/Tripura.jpg');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+   }
+
+   .bgimage26 {
+    width: 100%;
+    height: 100vh;
+   
+    background-image: url('refImages/Uttar-Pradesh.jpg');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+   }
+
+   .bgimage27 {
+    width: 100%;
+    height: 100vh;
+   
+    background-image: url('refImages/Uttarakhand.jpg');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+   }
+
+   .bgimage28 {
+    width: 100%;
+    height: 100vh;
+   
+    background-image: url('refImages/West-Bengal.webp');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+   }
+
+   .bgimage29 {
+    width: 100%;
+    height: 100vh;
+   
+    background-image: url('refImages/Andaman-and-Nicobar-Islands.jpg');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+   }
+
+   .bgimage30 {
+    width: 100%;
+    height: 100vh;
+   
+    background-image: url('refImages/Chandigarh.jpeg');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+   }
+
+   .bgimage31 {
+    width: 100%;
+    height: 100vh;
+   
+    background-image: url('refImages/Dadra-and-Nagar-Haveli-and-Daman-and-Diu.jpg');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+   }
+
+   .bgimage32 {
+    width: 100%;
+    height: 100vh;
+   
+    background-image: url('refImages/Delhi.jpg');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+   }
+
+   .bgimage33 {
+    width: 100%;
+    height: 100vh;
+   
+    background-image: url('refImages/Lakshadweep.jpg');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+   }
+
+   .bgimage34 {
+    width: 100%;
+    height: 100vh;
+   
+    background-image: url('refImages/Pondicherry.jpg');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+   }
+
+   .bgimage35 {
+    width: 100%;
+    height: 100vh;
+   
+    background-image: url('refImages/jammu-and-kashmir.webp');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+   }
+
+   .bgimage36 {
+    width: 100%;
+    height: 100vh;
+   
+    background-image: url('refImages/Ladakh.jpg');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+   }
